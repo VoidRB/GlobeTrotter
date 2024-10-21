@@ -1,29 +1,7 @@
-# TravelApp
+# GlobeTrotter
 
-This template should help get you started developing with Vue 3 in Vite.
+an "app" i made because i wanted to play around with an api, its kinda rough but does the job and well.
 
-## Recommended IDE Setup
+## Info
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+mainly Vue, axios and localstorage, and the api was thorugh amadeus and needs the token to be called and all, and the token needs to be
